@@ -51,7 +51,7 @@ DLD:1:0:galaxoidlabs.com
   - `0` - Add link
   - `1` - Upvote link
   - `2` - Downvote link
-- The fourth portion of the link is the actual link. This is the link that is to be stored. The link should be a valid URL and should start with `http://` or `https://`. We will describe what should be available for verification in the link below.
+- The fourth portion of the link is the actual link. This is the link that is to be stored. The link should be a valid URL. We will describe what should be available for verification in the link below.
 
 ### Link verification
 
